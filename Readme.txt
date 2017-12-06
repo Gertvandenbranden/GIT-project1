@@ -4,6 +4,5 @@ wijziging 3
 
 wijziging 4 nieuwe branch
 wijziging 5 merge fb & develop
-jqrge
 
 
